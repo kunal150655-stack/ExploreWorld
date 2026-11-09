@@ -1,0 +1,1 @@
+<footer class="footer"><a class="brand brand-footer" href="index.php"><span class="brand-mark">W</span> wonder<span>world</span></a><p>Discover places. Explore cultures. Experience wonders.</p><small>© <?= date('Y') ?> WonderWorld. Made for curious travellers.</small></footer></body></html>
